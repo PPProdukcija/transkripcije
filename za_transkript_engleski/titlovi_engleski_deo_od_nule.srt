@@ -1,49 +1,68 @@
 1
 00:00:00,000 --> 00:00:01,400
-Želim da vam kažem:
+Želim da vam
+kažem:
 
 2
 00:00:01,400 --> 00:00:04,150
 iako radimo
-u mnogim zemljama
+u mnogo zemalja
 
 3
-00:00:04,650 --> 00:00:07,600
-i do sada smo završili
-više od 400 projekata,
+00:00:04,650 --> 00:00:05,800
+i do sada
+smo završili
 
 4
-00:00:07,750 --> 00:00:12,100
-njih 50 smo već završili
-ovde u Srbiji,
+00:00:05,800 --> 00:00:07,600
+više od 400
+projekata,
 
 5
-00:00:12,100 --> 00:00:14,450
-preciznije rečeno,
-u Vojvodini.
+00:00:07,750 --> 00:00:10,050
+njih 50 smo
+već završili
 
 6
-00:00:14,600 --> 00:00:16,700
-A ako to posmatrate
-kao procenat
+00:00:10,050 --> 00:00:12,100
+ovde u Srbiji,
 
 7
-00:00:16,700 --> 00:00:20,100
-ukupnog broja
-jevrejskih zajednica
+00:00:12,100 --> 00:00:14,450
+tačnije
+u Vojvodini.
 
 8
-00:00:20,100 --> 00:00:23,650
-i grobalja koji su
-postojali u nekoj zemlji,
+00:00:14,600 --> 00:00:16,700
+A ako to gledate
+kao procenat
 
 9
-00:00:23,700 --> 00:00:26,950
-to je najveći procenat
-zaštitnih radova
+00:00:16,700 --> 00:00:19,100
+od ukupnog broja
 
 10
-00:00:26,950 --> 00:00:30,300
+00:00:19,100 --> 00:00:20,200
+jevrejskih
+zajednica
+
+11
+00:00:20,200 --> 00:00:23,650
+i grobalja
+u nekoj zemlji,
+
+12
+00:00:23,700 --> 00:00:25,900
+to je najveći
+procenat
+
+13
+00:00:25,900 --> 00:00:28,300
+zaštitnih radova
 koji smo uradili
-u bilo kojoj zemlji.
+
+14
+00:00:28,300 --> 00:00:30,300
+u bilo kojoj
+zemlji.
 
