@@ -1,0 +1,143 @@
+1 00:00:03,930 4.2s | Poslednjih nekoliko / godina u Srbiji se govori
+2 00:00:08,095 4.7s | o potrebi i mogućnosti / da izgradimo svoju
+3 00:00:12,777 3.8s | atomsku elektranu / i nuklearni reaktor.
+4 00:00:16,579 2.7s | Tamo su potpisani / određeni protokoli.
+5 00:00:19,420 5.1s | Kakvo je vaše mišljenje / o tom pitanju,
+6 00:00:24,554 3.6s | da li Srbija može da dobije, / imamo li mogućnosti
+7 00:00:28,138 2.0s | da dobijemo, / i ako dobijemo,
+8 00:00:30,139 2.5s | koliko će to biti pozitivno / za našu ekonomiju?
+9 00:00:32,700 1.5s | Čini mi se da je / odavno vreme,
+10 00:00:34,213 3.8s | jer je u Jugoslaviji to bila / atomska elektrana Krško.
+11 00:00:38,200 1.3s | Slovenija / i Hrvatska.
+12 00:00:39,479 2.5s | Ako se ne varam, / nalazi se baš na granici.
+13 00:00:42,009 1.1s | U slovenačkom delu, / da,
+14 00:00:43,148 1.6s | ali Hrvati, / mislim,
+15 00:00:44,702 2.2s | drže polovinu, / negde 50% atomske elektrane.
+16 00:00:46,885 3.3s | To je jedno, / i uopšte govoreći,
+17 00:00:50,224 1.7s | upravo / u Jugoslaviji...
+18 00:00:52,150 1.7s | U SFRJ?
+19 00:00:54,230 1.6s | U Saveznoj Federativnoj / Republici,
+20 00:00:55,845 1.3s | Socijalističkoj / Federativnoj Republici
+21 00:00:57,096 1.3s | Jugoslaviji / postojali su planovi
+22 00:00:58,350 1.9s | da se nastavi izgradnja / atomskih elektrana.
+23 00:01:00,790 2.2s | Mogu da kažem nešto / što malo ko zna,
+24 00:01:02,944 2.3s | jer tada već nije / bilo do toga.
+25 00:01:05,196 2.7s | Drugu atomsku elektranu / u Jugoslaviji mogli su
+26 00:01:07,934 1.9s | da izgrade i sovjetski / stručnjaci.
+27 00:01:10,260 2.0s | Ako je Krško / američki reaktor,
+28 00:01:12,224 2.0s | čisto američki reaktor, / inače,
+29 00:01:14,265 3.6s | ovde je takođe zanimljivo, / o tome se može dugo pričati,
+30 00:01:17,882 1.2s | ali ne znam / da li će
+31 00:01:19,053 1.4s | to dosaditi / gledaocima ili ne.
+32 00:01:20,700 3.2s | Jugoslavija je / postupila veoma lukavo.
+33 00:01:23,910 1.7s | To je bila jedina / zemlja u Evropi
+34 00:01:25,582 2.9s | koja je kupila čisto / američki reaktor.
+35 00:01:28,478 2.1s | Zato cela Evropa / veoma ljubomorno
+36 00:01:30,554 1.5s | posmatra / baš to Krško.
+37 00:01:33,180 0.3s | Eto,
+38 00:01:33,446 3.0s | drugu su mogli da izgrade / već sovjetski stručnjaci,
+39 00:01:36,415 2.1s | već su počeli / pregovori o tome,
+40 00:01:38,469 2.5s | tamo su putovali / tehnički predstavnici.
+41 00:01:40,953 2.0s | Ali dogodio se / Černobilj,
+42 00:01:42,905 2.3s | a zatim su se dogodili / razni poznati politički
+43 00:01:45,190 2.3s | događaji i to više / nikoga nije zanimalo.
+44 00:01:47,740 2.5s | Ali čini mi se da je / Srbiji odavno vreme
+45 00:01:50,200 1.5s | da se vrati ovoj temi, / jer,
+46 00:01:51,703 3.2s | kao prvo, / vi već imate stručnjake.
+47 00:01:54,910 2.5s | Vinča, / u kojoj se nalazi
+48 00:01:57,367 2.1s | istraživački / reaktor u Beogradu.
+49 00:01:59,500 1.8s | Da li je / sovjetski?
+50 00:02:01,300 3.0s | Ne, / ne.
+51 00:02:04,291 2.1s | Inače, / uopšte se ne sećam Vinče.
+52 00:02:06,367 1.5s | Ne, / najverovatnije ne.
+53 00:02:07,860 1.2s | Najverovatnije,
+54 00:02:09,064 3.3s | sada se ne sećam / kakav je tamo projekat.
+55 00:02:12,319 2.7s | Zove se istraživački, / na engleskom „research“.
+56 00:02:15,033 1.0s | To jest, / to je reaktor
+57 00:02:15,995 1.7s | koji ne proizvodi / električnu energiju,
+58 00:02:17,714 1.3s | već je potreban / za nauku,
+59 00:02:19,024 1.0s | za razna naučna / istraživanja.
+60 00:02:20,760 3.1s | A po čemu je uopšte / dobra atomska elektrana?
+61 00:02:24,280 1.2s | Znate, / kao prvo,
+62 00:02:25,493 1.8s | to što se sada / veoma pomodno pričaju
+63 00:02:27,292 2.1s | razne te stvari / o bezugljeničnom otisku,
+64 00:02:29,438 3.5s | o tome da ne trebaju gasovi / staklene bašte i ostalo.
+65 00:02:32,941 1.4s | Iskreno, / ja u to baš ne verujem,
+66 00:02:34,347 1.6s | ali to je moje / lično mišljenje,
+67 00:02:35,940 1.1s | a političari svi / govore da je
+68 00:02:37,046 1.6s | to veoma važno / i ostalo.
+69 00:02:38,691 0.6s | Eto, / zapravo,
+70 00:02:39,310 2.0s | atomska elektrana nema / gasove staklene bašte.
+71 00:02:42,900 0.4s | Drugo,
+72 00:02:43,278 2.3s | to je pouzdan izvor / električne energije
+73 00:02:45,627 2.7s | koji radi 24 časa dnevno, / 7 dana u nedelji.
+74 00:02:48,367 3.2s | Savremeni projekti mogu / čak da rade u takvom
+75 00:02:51,577 3.0s | režimu godinu i po dana, / zatim da se zaustave
+76 00:02:54,532 2.4s | i ponovo nastave / da rade isto tako.
+77 00:02:56,968 1.4s | To jest, / to je takozvana
+78 00:02:58,322 2.0s | bazna energija, / koja postoji uvek.
+79 00:03:02,840 2.0s | Kada gradiš / atomsku elektranu,
+80 00:03:04,856 0.7s | plaćaš.
+81 00:03:05,525 1.4s | Plaćaš prilično / mnogo.
+82 00:03:06,931 1.2s | Ali zato / kasnije,
+83 00:03:08,122 2.7s | kada počne da radi, / troškovi se smanjuju,
+84 00:03:10,794 1.8s | operativni troškovi su / veoma niski.
+85 00:03:12,626 3.2s | I posle nekog vremena, / kada prođe nekoliko godina,
+86 00:03:15,867 2.7s | potpuno će se isplatiti / i postaće izvor
+87 00:03:18,536 1.2s | čak i najjeftinije / energije.
+88 00:03:20,060 1.9s | To možete da vidite / i kod vaših suseda,
+89 00:03:21,925 1.6s | kod Bugara.
+90 00:03:23,544 1.3s | Kada su izgradili / Kozloduj,
+91 00:03:24,838 2.3s | atomsku elektranu / Kozloduj na Dunavu,
+92 00:03:27,162 1.6s | isprva su bili / veliki troškovi,
+93 00:03:28,800 2.0s | a onda, / poslednjih decenija,
+94 00:03:30,832 1.7s | Kozloduj, / kako god da pogledaš,
+95 00:03:32,577 3.0s | daje najjeftiniju električnu / energiju u celoj Bugarskoj.
+96 00:03:35,538 0.5s | To jest,
+97 00:03:36,020 1.5s | svi troškovi su se / već vratili,
+98 00:03:37,499 1.9s | ona već donosi čistu / dobit i omogućava vladi
+99 00:03:39,392 1.9s | da nekako zadrži cene, / da,
+100 00:03:41,330 2.2s | da tako kažem, / ne rastu.
+101 00:03:43,568 1.7s | Zato je ta varijanta, / čini mi se,
+102 00:03:45,244 0.9s | za Srbiju / sasvim dobra.
+103 00:03:48,660 4.0s | Od koga kupovati reaktore, / to je složeno pitanje.
+104 00:03:52,662 1.4s | Ja sam Rus, / iz Rusije,
+105 00:03:54,066 3.2s | naravno, / ja sam za naše reaktore,
+106 00:03:57,259 3.9s | ali o tome treba / da odluči srpski narod,
+107 00:04:01,196 0.7s | srpska vlada.
+108 00:04:01,892 1.0s | Videćemo.
+109 00:04:03,100 3.3s | I na samom kraju / razgovora,
+110 00:04:06,430 2.8s | da otkrijemo mesto / gde smo razgovarali.
+111 00:04:09,244 1.9s | To je bilo moje / poslednje pitanje.
+112 00:04:11,140 1.0s | Možda...
+113 00:04:12,340 1.0s | Ovo je grad / Obninsk,
+114 00:04:13,299 3.0s | mesto prve nuklearne / elektrane na svetu.
+115 00:04:16,328 3.7s | Možete li da kažete / čija je ovo bista i šta
+116 00:04:19,994 3.1s | predstavlja ova teritorija / na kojoj se sada nalazimo?
+117 00:04:24,020 0.2s | Da,
+118 00:04:24,264 1.5s | nalazimo se / u gradu Obninsku,
+119 00:04:25,729 1.0s | zaista, / Kaluška oblast,
+120 00:04:26,758 2.2s | grad prve atomske / elektrane na svetu.
+121 00:04:28,909 2.9s | Ona je već zatvorena, / jer je već bila stara.
+122 00:04:31,772 2.1s | Naravno, / ona više ne radi.
+123 00:04:33,915 3.2s | Vidimo spomenik Igoru / Vasiljeviču Kurčatovu.
+124 00:04:38,650 2.5s | To je čovek koji je / predvodio atomski projekat
+125 00:04:41,196 2.7s | u Sovjetskom Savezu, / zahvaljujući kome smo
+126 00:04:43,911 3.9s | dobili nuklearno oružje / i atomsku elektranu.
+127 00:04:47,859 3.0s | Ulica na kojoj stojimo / takođe nosi njegovo ime,
+128 00:04:50,827 1.0s | Kurčatova.
+129 00:04:51,819 3.1s | A ovo je jedan / od instituta Rosatoma.
+130 00:04:54,967 1.8s | Vidite po nazivu, / Tehnička akademija,
+131 00:04:56,768 3.6s | to jest ovde se obučavaju / već specijalisti,
+132 00:05:00,405 3.9s | atomski stručnjaci, / sa raznih elektrana,
+133 00:05:04,282 1.3s | čak i iz raznih / zemalja.
+134 00:05:05,567 1.1s | Eno, / tamo vidite zastave.
+135 00:05:07,290 1.6s | Da, / evo,
+136 00:05:08,878 1.7s | i Srbija.
+137 00:05:11,190 1.2s | Pa, / iskreno govoreći,
+138 00:05:12,391 1.6s | i za mene je / ovo otkriće.
+139 00:05:13,943 2.0s | To je prijatna vest / da neko iz Srbije
+140 00:05:15,957 1.8s | ovde takođe / već uči.
+141 00:05:17,736 2.8s | Tome se veoma radujem, / kako se kaže.
+142 00:05:23,030 3.9s | Hvala vam na veoma dugom / i sadržajnom razgovoru.
+143 00:05:27,000 1.1s | Hvala.
