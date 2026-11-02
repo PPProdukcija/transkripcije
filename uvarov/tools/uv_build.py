@@ -54,7 +54,7 @@ def wrapk(c,k):
     return best[1] if best else None
 def vis(s): return len(s.replace("⟦","").replace("⟧",""))
 def layout(sent):
-    clauses=[c.strip() for c in re.findall(r"[^,:;]+[,:;]?",sent) if c.strip()]
+    clauses=[c.strip() for c in re.split(r"(?<=[,:;])\s+",sent) if c.strip()]
     import math
     opts=[[(k,wrapk(c,k)) for k in range(max(1,math.ceil(vis(c)/MAX)),max(1,math.ceil(vis(c)/MAX))+3) if wrapk(c,k)] for c in clauses]
     best=None
@@ -148,7 +148,7 @@ with open(out_srt,"w",encoding="utf-8") as o:
     for i,(a,b,L,u) in enumerate(cues,1):
         for l in L:
             if vis(l)>MAX: bad.append(l)
-            if "," in l[:-1] : bad.append(l)
+            if re.search(r",\s",l) : bad.append(l)
         o.write(f"{i}\n{ts(a)} --> {ts(b)}\n"+"\n".join(cyr(x) for x in L)+"\n\n")
 with open(out_srt.replace(".srt","_latinica_pregled.txt"),"w",encoding="utf-8") as o:
     for i,(a,b,L,u) in enumerate(cues,1): o.write(f"{i} {ts(a)} {b-a:.1f}s | "+" / ".join(x.replace('⟦','').replace('⟧','') for x in L)+"\n")
